@@ -1,6 +1,7 @@
 {
   "name": "jac",
   "version": "0.1.0",
+  "homepage": "https://felipealejandroramos.github.io/react-crypto/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
